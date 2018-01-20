@@ -1,0 +1,7 @@
+{
+     // Windows Subsystem for Linux (on Windows)
+     "terminal.integrated.shell.windows": "C:\\Users\\rigarash\\AppData\\Local\\Microsoft\\WindowsApps\\ubuntu.exe",
+
+     // Using git inside WSL (on Windows)
+     "git.path": "C:\\Users\\rigarash\\OneDrive\\TOOLS\\wslgit\\wslgit.exe",
+}
